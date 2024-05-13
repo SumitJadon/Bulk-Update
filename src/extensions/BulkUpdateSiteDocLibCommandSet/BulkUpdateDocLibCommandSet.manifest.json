@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/command-set-extension-manifest.schema.json",
+  "id": "7309c384-319d-45b8-955d-de97d233b2f0",
+  "alias": "BulkUpdate",
+  "componentType": "Extension",
+  "extensionType": "ListViewCommandSet",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "items": {
+    "COMMAND_BULK_UPDATE": {
+      "title": {
+        "default": "Bulk Update"
+      },
+      "iconImageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAABPJJREFUeF7t3U1IFUEcAPC/X/lBppipHUJLQss8iIFIHkxF8VB2qEMQlUWFJEKHijpFZFFdKvoAIepkkHgoiqSIKIo+D0GZHxFZWRlUgpT58fTFSK/W537MtDNvZ3b+Cx58+3+z8/6/nd19Mzv7ooLBYBDClrsv+qF8T1v4y1L8v7FyKZzZWQGzE+OkqA/vSkSpBkIS4GcUJUH8jKIsiF9RlAbxIwoTyMKsFJiXksj7POZY3nhgEro+fIeRsYBprJ/OKUwg53dVw5bqAscEigi4/fw9rGu+DoM/RnyNogwIUdABRSkQHVCUA/E7ipIgfkZxDTIWmIDWO93wdmBIxLnctswnvQPQ8azPMkbFqy/XIMOjAdh28tYUiozL1pplcGJHuTJ9X74HITuJSihagKiEog2IKihagaiAIgykeHEmtO6thbTkhIid6x92fYbVB644bk/mc4owkJK8LLh2cA2kz4lcZyTLSKesKNqCyHr40hpERhQtQGqKs+FJzxfLrnuZDl9agJBxnOyMZNvxFFlQtAEhA2tO4ykyoGgFQtNL7DWKdiCyo2gJIjOKtiCyomgNIiOK9iCyoSDIn65IWS6JEcTQNywDCoKEddY7oYi+cQJBTEZPvETRAmRVySIoys1wHLgyBnh1i5EWIEwSDMEiDl8IwgBgFsp7RgCCIIjLDNi8nWVMnVctsIUgyL8MmO0NVvf2enHXCbnxe2h4jNfOT1VOUnwcJMXHUsXSBPnqHELzgWWPQRDJhBAEQSTLgGTVwRaCIHJkwIuZXzRXntq2EASRo2H8rQWCIAjgIctmJ8AWIlkLIU8W2n/xATx49SliNVuYmQJnGytsZ5Vpe1KPmALjhhCEMWGiwxFEdIYZy0cQxoSJDkcQxgxPBoPwuHsACnPShTw/BUEYQAjGhZud0HD69tSzg0U81AZBKEGMGOShnGQRMdsKQShAzDBCb+ONgiAOIHYYIlAQxAaEBoM3CoJYgLBg8ERBEBOQ/8HghYIgYSBuMHigIIgBhAeGWxQE+ZNBnhhuUBAEAJww4mKjoTR/Ptx7+XHGGYf3k4a0B6HBOLy5DIpy50HVvvYZILyfNKQ1CA0G6a/aXls4NbJo9kNpoRvQneYlNtUVQfOmFY4dklqDXL7XCxuO34BQ35Rx9yeHqRBGbEw0WM09Mc4IICgbjnXAwOBP0283R+rLYPfa5RATHWX5dVRrkNHxCTh06fHUnx0GWUcDQuKsUOpKc6GlqQoyUpNsO2u0BiGZCUcJbxmh7NGCmKHQYpD3ag9iRDna9hTONVZCfXUBREdNP6ywgBhRSvKzqFpGCJ4J5FTDSlhfnjetyf0aDcCulrvQfv/1tNdpbgqzbbsRXklaSk//ICzLmTsDg+WQZaz2i76vkJma5HiYMr6HCYQlR6qBOH021hbiVJ7VegShzByCUCYqUmEIEqlMU24HQSgTFakwT0HI1Qbtb0qNT0zC1UdvoPPdN6WvspxgPQVxqpxxvUwPDmCpN2ssgrBmTHA8gghOMGvxCMKaMcHxCCI4wazFKw+SMCsWlixIA9J7qtJiNe1MeRCVEIx1teqDQxCPRBHEo8RbbRZBEGRaBky731ly5MUEfJb6scYq30JYPzDG22fAdQvBBPPNAILwzafr0hDEdQr5FoAgfPPpujQEcZ1CvgUgCN98ui4NQVynkG8BvwEDqSpccDoThAAAAABJRU5ErkJggg==",
+      "type": "command"
+    }
+  }
+}

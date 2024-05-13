@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="BulkUpdate"
+        Location="ClientSideExtension.ListViewCommandSet"
+        ListTemplateId="101"
+        Properties="{}"
+        ComponentId="7309c384-319d-45b8-955d-de97d233b2f0" />
+</Elements>

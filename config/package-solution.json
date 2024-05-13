@@ -1,0 +1,35 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "BULK UPDATE DOCUMENT LIBRARY BUTTONS",
+    "id": "e31c41be-d844-4a7e-af6c-44cacd8e1877",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "Sumit Jadon",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": ""
+    },
+    "features": [
+      {
+        "title": "BULK UPDATE DOCUMENT LIBRARY BUTTONS (Command Set Extension for BULK UPDATE funtionality for Document Library developed by Sumit Jadon)",
+        "description": "This sharePoint framework app adds the functionality of an additionals button (command set) in the Site Document Library to Bulk Update materials for Site.",
+        "id": "74f43e10-756d-4c11-a511-f061420362bb",
+        "version": "1.0.0.0",
+        "assets": {
+          "elementManifests": [
+            "elements.xml",
+            "ClientSideInstance.xml"
+          ]
+        }
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/BULK-UPDATE-DOCUMENT-LIBRARY-BUTTONS-SPFX.sppkg"
+  }
+}
